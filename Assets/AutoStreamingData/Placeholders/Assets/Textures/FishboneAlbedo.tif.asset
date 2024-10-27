@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FishboneAlbedo.tif
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: f30051fed293375db06efc7f6e2bda0a2e02d3a133b2330064d85eb7ffbfd3d34d026d871b5911e1edfd9fda3d1292a6c10233d6963914bf967500e200f29060f300d79cab9b33fd9b7e4e66b80125803d0243aef367685c22565975090924222e02f7b35aa33a6a266e6c011690c92ff300cd9dca8dd67af43fb444020448924d02a95f9d64d7de4a7b9f9b442091442e02178337b372b1eff333bda6c390805f002fc33ae333200990a0c3fecc473f6f209f4fea8d802000509aa4a49c94922d02578ddb3867c0f0a2fe592091f6ab61022f1fb62c14aeda2abbd80d8048f87102bb97d29455d42a7369f60f0c0aeb4103ab6fbd606c6c66f2722f56d02f2b7102eb7132f14ea2eb043e100240000072c84b03ef7917b4307df7360d4819951f028ddf37c7b36671ffd8a999482de04103696fdb5088929869ab7fe09fd8666102f30ff635c58e0c7063adfbeb6f7641036b6fdc5499bf0a81de88e1cf0776f3005d5ecca3778bbd59da62ec3fdbfdc102d3c7afd34e2c12e56269f24700606f20e7bf1fdf4949292925f7e6ff4e6561022f469c12768b48228924d26842cdd1025bb13a152e4422168958a56af5032203d3f13bc04e8290ff0eb6bbc459d5f3005bfecb1fb701b8d779eb7e75b63a2103a5c9619fe338010060d829cfbff9fcfdfffffffffffff5f5eeeed1d1fffffcfdfffffffffffff5f5eeeed1d1ffff6fc0eadda3ffededbdbdb7f7f6de46da026988a1e6dd1d9c9d347d9c4730adf35f001ba9fa23708000088000088070ca3d0263c2d9bb50d3084420020948a08a6f00cb6832557c92860268dadd96dd5b6f00bbec42d9f8cdebf300020ff005c9f300dd3dcca356926dbbb7bd492a4912e300db96e453d49728b9ff5b6b4242256301cb6c06d5e59f546b7f507f4a36405f002fe35e6237dbf81feb2ff9800c50e3002b8b4309f94b292925a5a494c4db4103e9679f6c18db8cb1cd73dbb87b6f4289908972a7865ddb14bf5009ea529d6f00fb4c76d1f5f8c3aa52f64a69a5d36f00c77c0653cd99ff9d52526a4b0700f16806630cebb08e6239957272727266080153f35bd636aaa22aaaa22aaaf27f4d02ad871d65d97255c68abf60278cb408016f4573e776555dd5555dd555ad2afcfdffffffffffffd3d3b5b58787ffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

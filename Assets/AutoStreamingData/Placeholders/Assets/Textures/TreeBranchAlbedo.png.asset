@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TreeBranchAlbedo.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: f1842f5c2cc8c680e0804884808012f67d8755b084110099cdc43371807894886284cb92a5c0332b3b8123020100cccce2888e639199004e0d2250c00304c0ff6181c9e21feb3dd601000000000000fc728199979e740028154a8552a154f0f9f184df7aa6c2f647f64069432540274108811ded2602254bb2a0aad01ffffb7f6e889b514cf931ce19cf3a46faf95f75f1445d95aec1df53fc52e51bf73f0c017e8055837210f0011ae01919000008804381d990d72d0200bc3db637f61e9452c2844ffa82c07b099c7bc8bb11b67beb6f8089ee44e0014c40095018eea2f49818815b1909024c27c14251e5c6b35b3bf1a886b5509c87f2360400bd7d41402d6244cf940ac17048e4c4c4044c00080802a963d8bc6fc800bc6e131900fff3bf5db044b4af01f42a4caf027032fe3dc2e3801b2f96440c0029360364800c5e986341f98f621424ce19a9b5a595bc5cdf5e089d31af4078588534f07f929bda916f40ad87031c4049f03baba32935c6a25d080254dad4016833f003488884726ff10882d11c99005ebb0080acffa868a8c244cd9102d1888878cccc8744b047004143591c1e7c107c3322c972d798b3abc2447f830ac1404c78ce08b74490db2a1841e552b2f0b5fbaf5d1cffc3eb53f87d088231971eea34da853b80403fad407e80b3f47e0a0094aaa55aa5542dcdc05d806525ebe3af1e000000727f7f7f0602c987b55191011055cd0a00400bb00002c987b13b879b02ca96ea2180fccfff04c987d1cdd0519e56fd14785dd775e102c907d8dcaf402ebf6e932d00fff33ff1d094c1ed012e2fc4b8a941437afef842c987b5fa005b2929007f55fdd0090a6284731b83c188b0882088888800cccc6381efba47e05149b129e78864e35b206244dfd20bd1b9b29bb36c13081122267d68be31771ae0349c810800e0d87f53c284efdaa6c488884c48c802003400407281d98b54180ef0f83c3edf070b90034f80b9d15c85c867282b2da537da820a5db02df4df01f50a958b2a7222511cf7c284fd3e50e8aaaa4b44840000c2cccc023122d4921ec0321afc721e063a900b0409822b804c43debf38d3faffffff0362c987919c873107f91bbff137c0ff6b61c987d53e4ec68ddd53822d7cdff77dfcfdffffffffffff717191913e3e5a5a
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

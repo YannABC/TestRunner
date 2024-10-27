@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ThemeData" preserve="nothing"/>
+		<type fullname="TrackSegment" preserve="nothing"/>
+		<type fullname="SimpleBarricade" preserve="nothing"/>
+		<type fullname="PatrollingObstacle" preserve="nothing"/>
+		<type fullname="AllLaneObstacle" preserve="nothing"/>
+		<type fullname="Missile" preserve="nothing"/>
+		<type fullname="Coin" preserve="nothing"/>
+		<type fullname="RestartRunning" preserve="nothing"/>
+		<type fullname="RandomAnimation" preserve="nothing"/>
+		<type fullname="Character" preserve="nothing"/>
+		<type fullname="CharacterAccessories" preserve="nothing"/>
+	</assembly>
+</linker>

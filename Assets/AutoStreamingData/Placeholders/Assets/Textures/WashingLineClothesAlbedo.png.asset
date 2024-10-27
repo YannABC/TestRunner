@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WashingLineClothesAlbedo.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 42a9867592225cda3f00800fd0806ff5619976714f3d00c44bf789151286f15c619131ed30b89d1f44b7dab3d2241d3b51b12d34d6814e2825afc2337470912571e9c8a78f61814ed10701040820407ffcfdffffffffffffffffffffffff0000f184b9dc0bc8ed4c0448f648f640f64062841dbf3cc85445c0cc42ff427f42fff110566bad8838f80d12a86e7f00808862846fb920c8644700c413e833e033e8718988a3a686001534805678fc104006fcfdffffffffffffffffffffffff000002391c637319d05d23c09a0b9abf231132459155e18db5dbae30bf4fcafbd61002317554911ea851d69f51d81c5ac07d32453d25e1cda8ebaad8ab4d6aa9da04c284af70508007007000e007e8fe8066fcfdffffffffffffffffffffffff0000528479e9c1e1990e2071003444e8ff2651515134fb19c69a68c901c890507f063e84d1adc12d03ca80718042a895f16551f11e74a483541f64a9c082f9c32074c28427a130c80c44e801a01cb3c21001fcfdffffffffffffffffffffffff0000516982a76bad007c1009218002c013f471c942754adc4b6024807757f87469ef7d0882314c3b7e901588fdbf7ffdf8f8f18883356cfd83050f36000a0203c3c2f1b0bda1857317c7ef19aa0187b23000fcfdffffffffffffffffffffffff000062843f5028e866c446c466c444c433c0f1c8879529dca15d351308b030b0b03802d101346cbb21b79d20b77b004a0fd0726886079d6be3f74100d8a7efe7fd07f188b6c3bffd16e01b1680a78ea7ae62fcfdffffffffffffffffffffffff0000d2a886b5b625d8ce3b04ee67c7153c215109bc67d506927c35f93000c0bfb2755185f5e5e1e117e600f6f0f0624212ad51110014fb89c68a61b60003e913004451111bb4a481b69a40f5c154ee1d90840449d66706025a642c1c04701fc77fdfd2089db5a8096e2a340056a5b605c8295185a38d55e317ad25ae2d19f684f002f170733d02c874830c2fa0d8d87088a05185d74c638967c6a622bf2766eecdfe5df05774da80a6bd63881bea2a7735ca026908b80caa7206e977a7ea105b3eca5d08822fefbf254c2fe103727f7f7f065d6888275debfb65b7b74232fe382d66610982ef3cd4a7ab2f15f312fcffff03fcfdffffffffffffabab949488887777
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StarAlbedo.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 7d6821050001a7000180bfb3b2bfbf2d5d8890c3ff1e22ba09000233b95127005d503c34a2e13618e804005c20dc03005d503c34a2f0e218790c00728b5727007189d5a3c201341500808046040400006f8002000440b486d6d03a5a47eb903251f1683400031628c000007270510700e268bee5e380220b98023e78c001871e5ec83af511fa9f1f0aa5a402d000b2ef422983a1df18e0bf1f0aafda0205e861426988a3f300e10108803ecde33e8de253810004001800ff7f6cdbb06dc3ff1f71a98023d280a121098079ebce273839e2a88da5f380226919836a8a8b0f1d3c61028303bd170080486bebfc67b7800451294ed07f8901f83f7fc06cbd0d4000d2a8c2e7f7b1dbcf1108ce8c36a3cd78f110005d2434e9801104a06d40bf0000724881a72e0ae0cf2114c015f8e866f63e847f1fc6dd006c05f6a5ad27f3caa0520483e00420d260f98c493484180000e2c8da2392406089050278fafc200000ef85231050082560802106e386948ed261f1368d16a0090080770d80fe0008824229ce23c26000010480fffffff8fffc628423180880feffccffccaccc0cce0c628423120cc800002000f505bfaf3b576284231228c8cc080c0000a000d000f67d08bee7cf73e08711007f7fff7847466f80daff0b044849292925b7e67f04806f80fefd0110e86b7dadaff5b5be06406f80feff0118486da92db5a5b6d406004f80ffffffa51f18282925a5a49454c85d80ffffffff35ff011600727f7f7f3f6f80feff0114fccdbff937ffe6df04006f80feff010c4869292da5a5b4946e0d5d7012340800a2222c2a8133fe7a18005dc889d50f02c2ff1ee41704815abf065d307534268607006001005030c40201c284351010c8cd84f8ff8e77ef78ef085d10e2e1a7819f8eff1f45f047fd8d03426988e7e72138c530003f58f9950fe07d28cee7d771e0ff31007f7f7f7f5c617dc8fde7ff51f8ff7900bdbdbd0198747da89de7e777e00701007f7f7f7ff9fef184355840ca73e67ffedfc57fc704017d28fca3c320e1230884804946ad48805d84fffdc1a117f122f614e6124e424661a9962b8439730084370100feffff83515175344244e31a24d2203272edcb285d809ff533cb3134dfb400727f7f7f06fcfdffffffffffffe5e5c4c471716464
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000
